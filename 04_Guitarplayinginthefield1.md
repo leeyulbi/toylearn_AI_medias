@@ -7,5 +7,4 @@ The man is turned to the right, showing only his left side, with his torso facin
 The background features lush, dry grass surrounding the area, with low mountains visible in the distance. The background is in focus-out mode.
 The sky is clear and cloudless, a bright blue sky typical of around 3 PM.
 
-Translated with DeepL.com (free version)
 ```
