@@ -67,3 +67,4 @@
 차크라는 우리 몸과 마음의 에너지를 움직여주는 아주 중요한 바퀴랍니다.
 
 ## speech wav
+[대사](https://github.com/leeyulbi/toylearn_AI_medias/blob/main/quests/speech1.wav)
