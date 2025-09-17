@@ -131,9 +131,11 @@
 분위기: 전문가의 신뢰감 + 감성적 공감 동시 전달
 
 ## 동물 캐릭터 이미지
-[남자]()
+[남자]( 3D animation, full shot, high definition, high angle, warm lighting, soft lighting. A 3D baby alpaca appears, a humanoid male with two legs and arms. It primarily has white fur with a soft texture and distinct feel. Large, dark, expressive eyes reflect a subtle sheen, with delicate eyelashes slightly extending from the upper eyelids. The muzzle is small and pale pink, featuring two small black nostrils. Ears are pointed and stand erect, with a faint pale pink hue on the inner surfaces.
+It wears a light pink round-neck T-shirt.)
 
-[여자]()
+[여자]( 3D animation, full shot, high definition, high angle, warm lighting, soft lighting. A 3D baby alpaca appears, a humanoid male with two legs and arms. It primarily has white fur with a soft texture and distinct feel. Large, dark, expressive eyes reflect a subtle sheen, with delicate eyelashes slightly extending from the upper eyelids. The muzzle is small and pale pink, featuring two small black nostrils. Ears are pointed and stand erect, with a faint pale pink hue on the inner surfaces.
+It wears a light pink round-neck T-shirt.)
 ## 신빙성 자료
 [자료]()
 
