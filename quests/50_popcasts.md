@@ -135,6 +135,6 @@
 
 [남자](https://labs.google/fx/ko/tools/whisk/share/42d7fiptn0000)
 ## 신빙성 자료
-[자료]()
+[자료](![alt text](<주석 2025-09-17 124019.png>))
 
-
+ 
